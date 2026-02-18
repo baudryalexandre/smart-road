@@ -4,7 +4,7 @@
 
 ---
 
-(/assets/smart-road.gif)
+[](/assets/smart-road.gif)
 
 ## 📋 Prérequis
 
