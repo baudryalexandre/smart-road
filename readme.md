@@ -4,7 +4,7 @@
 
 ---
 
-<img src=\"/assets/smart-road.gif\"/>
+<img src="assets/smart-road.gif" alt="Smart Road demo">
 
 ## 📋 Prérequis
 
