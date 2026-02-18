@@ -1,0 +1,14 @@
+/home/zone01student/Documents/smart-road/target/debug/deps/sdl2_sys-384f53b2919b9013.d: /home/zone01student/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/sdl2-sys-0.37.0/src/lib.rs /home/zone01student/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/sdl2-sys-0.37.0/src/image.rs /home/zone01student/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/sdl2-sys-0.37.0/src/ttf.rs /home/zone01student/Documents/smart-road/target/debug/build/sdl2-sys-ee82e3978d3774a8/out/sdl_bindings.rs /home/zone01student/Documents/smart-road/target/debug/build/sdl2-sys-ee82e3978d3774a8/out/sdl_image_bindings.rs /home/zone01student/Documents/smart-road/target/debug/build/sdl2-sys-ee82e3978d3774a8/out/sdl_ttf_bindings.rs
+
+/home/zone01student/Documents/smart-road/target/debug/deps/libsdl2_sys-384f53b2919b9013.rlib: /home/zone01student/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/sdl2-sys-0.37.0/src/lib.rs /home/zone01student/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/sdl2-sys-0.37.0/src/image.rs /home/zone01student/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/sdl2-sys-0.37.0/src/ttf.rs /home/zone01student/Documents/smart-road/target/debug/build/sdl2-sys-ee82e3978d3774a8/out/sdl_bindings.rs /home/zone01student/Documents/smart-road/target/debug/build/sdl2-sys-ee82e3978d3774a8/out/sdl_image_bindings.rs /home/zone01student/Documents/smart-road/target/debug/build/sdl2-sys-ee82e3978d3774a8/out/sdl_ttf_bindings.rs
+
+/home/zone01student/Documents/smart-road/target/debug/deps/libsdl2_sys-384f53b2919b9013.rmeta: /home/zone01student/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/sdl2-sys-0.37.0/src/lib.rs /home/zone01student/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/sdl2-sys-0.37.0/src/image.rs /home/zone01student/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/sdl2-sys-0.37.0/src/ttf.rs /home/zone01student/Documents/smart-road/target/debug/build/sdl2-sys-ee82e3978d3774a8/out/sdl_bindings.rs /home/zone01student/Documents/smart-road/target/debug/build/sdl2-sys-ee82e3978d3774a8/out/sdl_image_bindings.rs /home/zone01student/Documents/smart-road/target/debug/build/sdl2-sys-ee82e3978d3774a8/out/sdl_ttf_bindings.rs
+
+/home/zone01student/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/sdl2-sys-0.37.0/src/lib.rs:
+/home/zone01student/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/sdl2-sys-0.37.0/src/image.rs:
+/home/zone01student/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/sdl2-sys-0.37.0/src/ttf.rs:
+/home/zone01student/Documents/smart-road/target/debug/build/sdl2-sys-ee82e3978d3774a8/out/sdl_bindings.rs:
+/home/zone01student/Documents/smart-road/target/debug/build/sdl2-sys-ee82e3978d3774a8/out/sdl_image_bindings.rs:
+/home/zone01student/Documents/smart-road/target/debug/build/sdl2-sys-ee82e3978d3774a8/out/sdl_ttf_bindings.rs:
+
+# env-dep:OUT_DIR=/home/zone01student/Documents/smart-road/target/debug/build/sdl2-sys-ee82e3978d3774a8/out
