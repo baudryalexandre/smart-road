@@ -4,6 +4,8 @@
 
 ---
 
+(/assets/smart-road.gif)
+
 ## 📋 Prérequis
 
 - [Rust](https://www.rust-lang.org/tools/install) (édition 2021)
