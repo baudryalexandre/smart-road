@@ -45,7 +45,6 @@ jobs:
           # --- Rust / SDL2 ---
           if [ -f Cargo.toml ]; then
             grep -q 'sdl2' Cargo.toml && TOPICS="$TOPICS,sdl2"
-            grep -rl 'SmartRoad\|Intersection\|simulate\|simulation' . --include="*.rs" > /dev/null 2>&1 && TOPICS="$TOPICS,simulation"
           fi
           # --- DevOps & Cloud ---
           [ -f Dockerfile ] && TOPICS="$TOPICS,docker"
